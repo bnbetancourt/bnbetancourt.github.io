@@ -10,7 +10,7 @@ I am a computer science student at CSUF, I expect to graduate in 2027
 
 * Lab 10, part 2
 
- This lab was pretty cool to me as it uses a 2-dimensional data structure, using the std::vector. I liked learning that instead of creating two different vectors, we could just use a 2-D one. I also struggled a bit using and understanding stoi, however; this lab was where I learned to feel more comfortable in using it and understanding how it works as we convert the strings into integers. This lab showed a lot of information about modular programming which I found to be truly interesting. Also got to work more on my if commands.
+  This lab was pretty cool to me as it uses a 2-dimensional data structure, using the std::vector. I liked learning that instead of creating two different vectors, we could just use a 2-D one. I also struggled a bit using and understanding stoi, however; this lab was where I learned to feel more comfortable in using it and understanding how it works as we convert the strings into integers. This lab showed a lot of information about modular programming which I found to be truly interesting. Also got to work more on my if commands.
 
 * Lab 12, part 1
 
